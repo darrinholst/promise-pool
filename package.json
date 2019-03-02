@@ -1,0 +1,16 @@
+{
+    "name": "promise-pool",
+    "version": "1.0.0",
+    "description": "An implementation of a promise pool",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "author": "darrinholst@gmail.com",
+    "license": "MIT",
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "chance": "^1.0.18",
+        "mocha": "^6.0.2"
+    }
+}
